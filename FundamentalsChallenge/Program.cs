@@ -15,6 +15,8 @@
       arithmeticOperations.PrintMultiplication();
       arithmeticOperations.PrintDivision();
       arithmeticOperations.PrintMean();
+
+      WordCharacterCounter.WordCharacterCounterPrint();
     }
   }
 }
