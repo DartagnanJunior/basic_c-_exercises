@@ -18,7 +18,9 @@
 
       //WordCharacterCounter.WordCharacterCounterPrint();
 
-      var validPlate = VehicleLicensePlate.ValidatePlate();
+      //var validPlate = VehicleLicensePlate.ValidatePlate();
+
+      DatePrintter.PrintDateManyFormats();
     }
   }
 }
